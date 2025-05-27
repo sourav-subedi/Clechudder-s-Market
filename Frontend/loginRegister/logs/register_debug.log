@@ -1,0 +1,2923 @@
+[2025-05-14 09:39:38] Registration process started
+[2025-05-14 09:39:38] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 394983
+    [otp_expiry] => 1747208343
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => Butcher
+            [shop_name] => masu
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 09:39:38] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 09:39:38] OTP verified block entered
+[2025-05-14 09:39:38] Registration failed: ORA-02287: sequence number not allowed here
+[2025-05-14 09:46:50] Registration process started
+[2025-05-14 09:46:50] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 394983
+    [otp_expiry] => 1747208343
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => Butcher
+            [shop_name] => masu
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 09:46:50] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 09:46:50] OTP verified block entered
+[2025-05-14 09:46:50] User inserted, ID: 5
+[2025-05-14 09:46:50] Registration failed: ORA-02290: check constraint (CLECKHUDDERS_MARKET.SYS_C0013185) violated
+[2025-05-14 09:46:54] Registration process started
+[2025-05-14 09:46:54] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 394983
+    [otp_expiry] => 1747208343
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => Butcher
+            [shop_name] => masu
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 09:46:54] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 09:46:54] OTP verified block entered
+[2025-05-14 09:46:55] User inserted, ID: 7
+[2025-05-14 09:46:55] Registration failed: ORA-02290: check constraint (CLECKHUDDERS_MARKET.SYS_C0013185) violated
+[2025-05-14 10:38:54] Registration process started
+[2025-05-14 10:38:54] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 394983
+    [otp_expiry] => 1747208343
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => Butcher
+            [shop_name] => masu
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 10:38:54] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [shop_name] => masu
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-14 10:38:54] Form submitted, saving registration data and redirecting to OTP
+[2025-05-14 10:39:14] Registration process started
+[2025-05-14 10:39:14] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 636104
+    [otp_expiry] => 1747212234
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name] => masu
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 10:39:14] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 10:39:14] OTP verified block entered
+[2025-05-14 10:39:14] User inserted, ID: 9
+[2025-05-14 10:39:14] Shop inserted successfully
+[2025-05-14 10:39:14] Transaction committed. Clearing session and redirecting.
+[2025-05-14 10:41:25] Registration process started
+[2025-05-14 10:41:25] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 636104
+    [otp_expiry] => 1747212234
+    [user_role] => customer
+)
+
+[2025-05-14 10:41:25] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => azarialuzio@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-14 10:41:25] Form submitted, saving registration data and redirecting to OTP
+[2025-05-14 10:42:58] Registration process started
+[2025-05-14 10:42:58] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 988863
+    [otp_expiry] => 1747212385
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 10:42:58] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 10:42:58] OTP verified block entered
+[2025-05-14 10:42:58] User inserted, ID: 11
+[2025-05-14 10:42:58] Transaction committed. Clearing session and redirecting.
+[2025-05-14 16:28:25] Registration process started
+[2025-05-14 16:28:25] SESSION: Array
+(
+    [user_id] => 2
+    [role] => trader
+    [user_role] => customer
+)
+
+[2025-05-14 16:28:25] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-14 16:28:25] Form submitted, saving registration data and redirecting to OTP
+[2025-05-14 16:28:53] Registration process started
+[2025-05-14 16:28:53] SESSION: Array
+(
+    [user_id] => 2
+    [role] => trader
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 270276
+    [otp_expiry] => 1747233205
+    [otp_verified] => 1
+)
+
+[2025-05-14 16:28:53] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 16:28:53] OTP verified block entered
+[2025-05-14 16:28:54] User inserted, ID: 5
+[2025-05-14 16:28:54] Transaction committed. Clearing session and redirecting.
+[2025-05-14 16:53:42] Registration process started
+[2025-05-14 16:53:42] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 270276
+    [otp_expiry] => 1747233205
+    [user_role] => customer
+)
+
+[2025-05-14 16:53:42] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-14 16:53:42] Form submitted, saving registration data and redirecting to OTP
+[2025-05-14 16:54:05] Registration process started
+[2025-05-14 16:54:05] SESSION: Array
+(
+    [user_id] => 5
+    [role] => customer
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 581056
+    [otp_expiry] => 1747234722
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-14 16:54:05] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 16:54:05] OTP verified block entered
+[2025-05-14 16:54:05] User inserted, ID: 5
+[2025-05-14 16:54:05] Transaction committed. Clearing session and redirecting.
+[2025-05-14 18:09:21] Registration process started
+[2025-05-14 18:09:21] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-14 18:09:21] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-14 18:09:21] Form submitted, saving registration data and redirecting to OTP
+[2025-05-14 18:09:44] Registration process started
+[2025-05-14 18:09:44] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 252907
+    [otp_expiry] => 1747239261
+    [otp_verified] => 1
+)
+
+[2025-05-14 18:09:44] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-14 18:09:44] OTP verified block entered
+[2025-05-14 18:09:44] User inserted, ID: 5
+[2025-05-14 18:09:44] Transaction committed. Clearing session and redirecting.
+[2025-05-15 07:45:01] Registration process started
+[2025-05-15 07:45:01] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-15 07:45:01] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [shop_name] => masu
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-15 07:45:01] Form submitted, saving registration data and redirecting to OTP
+[2025-05-15 07:45:17] Registration process started
+[2025-05-15 07:45:17] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name] => masu
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 925080
+    [otp_expiry] => 1747288201
+    [otp_verified] => 1
+)
+
+[2025-05-15 07:45:17] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-15 07:45:17] OTP verified block entered
+[2025-05-15 07:45:17] User inserted, ID: 5
+[2025-05-15 07:45:17] Shop inserted successfully
+[2025-05-15 07:45:17] Transaction committed. Clearing session and redirecting.
+[2025-05-15 08:10:11] Registration process started
+[2025-05-15 08:10:11] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-15 08:10:11] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => bakery
+    [shop_name] => Hamro bakery
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-15 08:10:11] Form submitted, saving registration data and redirecting to OTP
+[2025-05-15 08:10:25] Registration process started
+[2025-05-15 08:10:25] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name] => Hamro bakery
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 278733
+    [otp_expiry] => 1747289711
+    [otp_verified] => 1
+)
+
+[2025-05-15 08:10:25] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-15 08:10:25] OTP verified block entered
+[2025-05-15 08:10:25] User inserted, ID: 5
+[2025-05-15 08:10:25] Shop inserted successfully
+[2025-05-15 08:10:25] Transaction committed. Clearing session and redirecting.
+[2025-05-16 07:21:54] Registration process started
+[2025-05-16 07:21:54] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-16 07:21:54] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => greengrocer
+    [shop_name] => don't go green
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 07:21:54] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 07:22:12] Registration process started
+[2025-05-16 07:22:12] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name] => don't go green
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 878287
+    [otp_expiry] => 1747373214
+    [otp_verified] => 1
+)
+
+[2025-05-16 07:22:12] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 07:22:12] OTP verified block entered
+[2025-05-16 07:22:12] User inserted, ID: 5
+[2025-05-16 07:22:12] Shop inserted successfully
+[2025-05-16 07:22:12] Transaction committed. Clearing session and redirecting.
+[2025-05-16 10:24:40] Registration process started
+[2025-05-16 10:24:40] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 10:24:40] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 10:24:40] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 10:24:53] Registration process started
+[2025-05-16 10:24:53] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 177143
+    [otp_expiry] => 1747384180
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:24:53] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 10:24:53] OTP verified block entered
+[2025-05-16 10:24:53] User inserted, ID: 5
+[2025-05-16 10:24:53] Transaction committed. Clearing session and redirecting.
+[2025-05-16 10:27:47] Registration process started
+[2025-05-16 10:27:47] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-16 10:27:47] POST: Array
+(
+    [fullname] => utkrista
+    [category] => fishmonger
+    [shop_name] => go green
+    [phone] => 9840005325
+    [email] => azarialuzio@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 10:27:47] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 10:28:36] Registration process started
+[2025-05-16 10:28:36] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name] => go green
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 805483
+    [otp_expiry] => 1747384367
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:28:36] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 10:28:36] OTP verified block entered
+[2025-05-16 10:28:36] User inserted, ID: 7
+[2025-05-16 10:28:36] Registration failed: ORA-01400: cannot insert NULL into ("CLECKHUDDERS_MARKET"."SHOPS"."CONTACT_NO")
+[2025-05-16 10:36:24] Registration process started
+[2025-05-16 10:36:24] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name] => go green
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 805483
+    [otp_expiry] => 1747384367
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:36:24] POST: Array
+(
+    [fullname] => utkrista
+    [category] => fishmonger
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 10:36:24] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 10:37:30] Registration process started
+[2025-05-16 10:37:30] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => 
+            [contact_no] => 
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name] => 
+        )
+
+    [user_email] => 
+    [otp] => 805483
+    [otp_expiry] => 1747384367
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:37:30] POST: Array
+(
+    [fullname] => utkrista
+    [category] => fishmonger
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 10:37:30] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 10:52:27] Registration process started
+[2025-05-16 10:52:27] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => 
+            [contact_no] => 
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name] => 
+        )
+
+    [user_email] => 
+    [otp] => 805483
+    [otp_expiry] => 1747384367
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:52:27] POST: Array
+(
+    [fullname] => utkrista
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 10:52:27] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 10:52:41] Registration process started
+[2025-05-16 10:52:41] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name] => 
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 594346
+    [otp_expiry] => 1747385847
+    [otp_verified] => 1
+)
+
+[2025-05-16 10:52:41] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 10:52:42] OTP verified block entered
+[2025-05-16 10:52:42] Registration failed: ORA-01400: cannot insert NULL into ("CLECKHUDDERS_MARKET"."USERS"."CONTACT_NO")
+[2025-05-16 11:00:13] Registration process started
+[2025-05-16 11:00:13] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name] => 
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 594346
+    [otp_expiry] => 1747385847
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:00:13] POST: Array
+(
+    [fullname] => utkrista
+    [category] => bakery
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 11:00:13] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 11:00:42] Registration process started
+[2025-05-16 11:00:42] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name] => 
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 194890
+    [otp_expiry] => 1747386313
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:00:42] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:00:42] OTP verified block entered
+[2025-05-16 11:00:42] Registration failed: ORA-00001: unique constraint (CLECKHUDDERS_MARKET.SYS_C0013816) violated
+[2025-05-16 11:03:44] Registration process started
+[2025-05-16 11:03:44] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name] => 
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 194890
+    [otp_expiry] => 1747386313
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:03:44] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:03:44] OTP verified block entered
+[2025-05-16 11:03:44] User inserted, ID: 13
+[2025-05-16 11:03:44] Registration failed: ORA-01400: cannot insert NULL into ("CLECKHUDDERS_MARKET"."SHOPS"."SHOP_NAME")
+[2025-05-16 11:10:39] Registration process started
+[2025-05-16 11:10:39] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name] => 
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:10:39] POST: Array
+(
+    [fullname] => utkrista
+    [category] => bakery
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 11:10:39] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 11:10:53] Registration process started
+[2025-05-16 11:10:53] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp_verified] => 1
+    [otp] => 855840
+    [otp_expiry] => 1747386940
+)
+
+[2025-05-16 11:10:53] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:10:53] OTP verified block entered
+[2025-05-16 11:10:53] User inserted, ID: 15
+[2025-05-16 11:10:53] Registration failed: ORA-00904: "SHOP_CONTACT": invalid identifier
+[2025-05-16 11:14:52] Registration process started
+[2025-05-16 11:14:52] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp_verified] => 1
+    [otp] => 855840
+    [otp_expiry] => 1747386940
+)
+
+[2025-05-16 11:14:52] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:14:52] OTP verified block entered
+[2025-05-16 11:14:52] User inserted, ID: 17
+[2025-05-16 11:14:52] Both shops inserted successfully
+[2025-05-16 11:14:52] Transaction committed. Clearing session and redirecting.
+[2025-05-16 11:24:37] Registration process started
+[2025-05-16 11:24:37] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 855840
+    [otp_expiry] => 1747386940
+    [user_role] => trader
+)
+
+[2025-05-16 11:24:37] POST: Array
+(
+    [fullname] => utkrista
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azafdfdrialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist2123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 11:24:37] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 11:24:45] Registration process started
+[2025-05-16 11:24:45] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 855840
+    [otp_expiry] => 1747386940
+    [user_role] => trader
+)
+
+[2025-05-16 11:24:45] POST: Array
+(
+    [fullname] => utkrista
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azafdfdrialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 11:24:45] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 11:25:23] Registration process started
+[2025-05-16 11:25:23] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 970895
+    [otp_expiry] => 1747387785
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azafdfdrialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:25:23] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:25:23] OTP verified block entered
+[2025-05-16 11:25:23] User inserted, ID: 5
+[2025-05-16 11:25:23] Registration failed: ORA-01008: not all variables bound
+[2025-05-16 11:29:54] Registration process started
+[2025-05-16 11:29:54] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 970895
+    [otp_expiry] => 1747387785
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azafdfdrialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-16 11:29:54] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 11:29:54] OTP verified block entered
+[2025-05-16 11:29:54] User inserted, ID: 7
+[2025-05-16 11:29:54] Both shops inserted successfully
+[2025-05-16 11:29:54] Transaction committed. Clearing session and redirecting.
+[2025-05-16 17:26:10] Registration process started
+[2025-05-16 17:26:10] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-16 17:26:10] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => fishmonger
+    [email] => subedisourav8@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:26:10] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 17:26:49] Registration process started
+[2025-05-16 17:26:49] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => subedisourav8@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => subedisourav8@gmail.com
+    [otp] => 848514
+    [otp_expiry] => 1747409470
+    [otp_verified] => 1
+)
+
+[2025-05-16 17:26:49] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 17:26:49] OTP verified block entered
+[2025-05-16 17:26:49] User inserted, ID: 5
+[2025-05-16 17:26:49] Both shops inserted successfully
+[2025-05-16 17:26:49] Transaction committed. Clearing session and redirecting.
+[2025-05-16 17:33:05] Registration process started
+[2025-05-16 17:33:05] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 17:33:05] POST: Array
+(
+    [fullname] => abhisek
+    [phone] => 9840005325
+    [email] => sahabhisek1@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:33:05] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 17:33:11] Registration process started
+[2025-05-16 17:33:11] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 17:33:11] POST: Array
+(
+    [fullname] => abhisek
+    [phone] => 9840005325
+    [email] => sahabhisek1@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:33:11] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 17:33:23] Registration process started
+[2025-05-16 17:33:23] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 17:33:23] POST: Array
+(
+    [fullname] => abhisek
+    [phone] => 9840005325
+    [email] => sahabhisek1@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:33:23] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 17:33:40] Registration process started
+[2025-05-16 17:33:40] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 17:33:40] POST: Array
+(
+    [fullname] => abhisek
+    [phone] => 9840005325
+    [email] => sahabhisek1@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:33:40] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 17:34:14] Registration process started
+[2025-05-16 17:34:14] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 17:34:14] POST: Array
+(
+    [fullname] => abhisek
+    [phone] => 9840005325
+    [email] => sahabhisek1@gmail.com
+    [password] => Admin@12345
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 17:34:14] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:07:09] Registration process started
+[2025-05-16 18:07:09] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 18:07:09] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 18:07:09] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:13:07] Registration process started
+[2025-05-16 18:13:07] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 18:13:07] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 18:13:07] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:14:15] Registration process started
+[2025-05-16 18:14:15] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 18:14:15] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 18:14:15] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:14:44] Registration process started
+[2025-05-16 18:14:44] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-16 18:14:44] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 18:14:44] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:15:28] Registration process started
+[2025-05-16 18:15:28] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 995375
+    [otp_expiry] => 1747412384
+    [otp_verified] => 1
+)
+
+[2025-05-16 18:15:28] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 18:15:28] OTP verified block entered
+[2025-05-16 18:16:56] Registration process started
+[2025-05-16 18:16:56] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 995375
+    [otp_expiry] => 1747412384
+    [otp_verified] => 1
+)
+
+[2025-05-16 18:16:56] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 18:16:56] OTP verified block entered
+[2025-05-16 18:17:41] Registration process started
+[2025-05-16 18:17:41] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 995375
+    [otp_expiry] => 1747412384
+    [otp_verified] => 1
+)
+
+[2025-05-16 18:17:41] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-16 18:17:41] Form submitted, saving registration data and redirecting to OTP
+[2025-05-16 18:17:56] Registration process started
+[2025-05-16 18:17:56] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 370889
+    [otp_expiry] => 1747412561
+    [otp_verified] => 1
+)
+
+[2025-05-16 18:17:56] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-16 18:17:56] OTP verified block entered
+[2025-05-16 18:17:56] User inserted, ID: 5
+[2025-05-16 18:17:56] Transaction committed. Clearing session and redirecting.
+[2025-05-17 09:44:40] Registration process started
+[2025-05-17 09:44:40] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-17 09:44:40] POST: Array
+(
+    [fullname] => utkrista
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-17 09:44:40] Form submitted, saving registration data and redirecting to OTP
+[2025-05-17 09:45:01] Registration process started
+[2025-05-17 09:45:01] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 176267
+    [otp_expiry] => 1747468180
+    [otp_verified] => 1
+)
+
+[2025-05-17 09:45:01] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-17 09:45:01] OTP verified block entered
+[2025-05-17 09:45:01] User inserted, ID: 22
+[2025-05-17 09:45:01] Both shops inserted successfully
+[2025-05-17 09:45:01] Transaction committed. Clearing session and redirecting.
+[2025-05-18 18:25:58] Registration process started
+[2025-05-18 18:25:58] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-18 18:25:58] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@!23
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-18 18:25:58] Form submitted, saving registration data and redirecting to OTP
+[2025-05-18 18:26:13] Registration process started
+[2025-05-18 18:26:13] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-18 18:26:13] POST: Array
+(
+    [fullname] => Utkrista 
+    [phone] => 9840005325
+    [email] => utkristashrestha984@gmail.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-18 18:26:13] Form submitted, saving registration data and redirecting to OTP
+[2025-05-18 18:33:39] Registration process started
+[2025-05-18 18:33:39] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 550652
+    [otp_expiry] => 1747586112
+    [otp_verified] => 1
+)
+
+[2025-05-18 18:33:39] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-18 18:33:39] OTP verified block entered
+[2025-05-18 18:33:39] User inserted, ID: 5
+[2025-05-18 18:33:39] Transaction committed. Clearing session and redirecting.
+[2025-05-18 18:34:23] Registration process started
+[2025-05-18 18:34:23] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 550652
+    [otp_expiry] => 1747586112
+    [user_role] => trader
+)
+
+[2025-05-18 18:34:23] POST: Array
+(
+    [fullname] => utkrista
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-18 18:34:23] Form submitted, saving registration data and redirecting to OTP
+[2025-05-18 18:34:57] Registration process started
+[2025-05-18 18:34:57] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 457493
+    [otp_expiry] => 1747586363
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => utkrista
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-18 18:34:57] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-18 18:34:58] OTP verified block entered
+[2025-05-18 18:34:58] User inserted, ID: 7
+[2025-05-18 18:34:58] Both shops inserted successfully
+[2025-05-18 18:34:58] Transaction committed. Clearing session and redirecting.
+[2025-05-19 10:52:00] Registration process started
+[2025-05-19 10:52:00] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-19 10:52:00] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => greengrocer
+    [email] => azarialuzio@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkas
+    [email2] => azafdfdrialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@!23
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-19 10:52:00] Form submitted, saving registration data and redirecting to OTP
+[2025-05-19 10:52:19] Registration process started
+[2025-05-19 10:52:19] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-19 10:52:19] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => greengrocer
+    [email] => azarialuzio@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkas
+    [email2] => azafdfdrialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-19 10:52:19] Form submitted, saving registration data and redirecting to OTP
+[2025-05-19 10:52:46] Registration process started
+[2025-05-19 10:52:46] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkas
+            [email2] => azafdfdrialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 658795
+    [otp_expiry] => 1747645039
+    [otp_verified] => 1
+)
+
+[2025-05-19 10:52:46] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-19 10:52:46] OTP verified block entered
+[2025-05-19 10:53:47] Registration process started
+[2025-05-19 10:53:47] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkas
+            [email2] => azafdfdrialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 658795
+    [otp_expiry] => 1747645039
+    [otp_verified] => 1
+)
+
+[2025-05-19 10:53:47] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => greengrocer
+    [email] => azarialuzio@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => fresh
+    [email1] => asdfadf@gmail.cm
+    [phone1] => 9840005328
+    [shop_name2] => ajfkas
+    [email2] => asdfasd@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-19 10:53:47] Form submitted, saving registration data and redirecting to OTP
+[2025-05-19 10:54:46] Registration process started
+[2025-05-19 10:54:46] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => fresh
+            [email1] => asdfadf@gmail.cm
+            [phone1] => 9840005328
+            [shop_name2] => ajfkas
+            [email2] => asdfasd@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 546576
+    [otp_expiry] => 1747645127
+    [otp_verified] => 1
+)
+
+[2025-05-19 10:54:46] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-19 10:54:46] OTP verified block entered
+[2025-05-19 10:55:24] Registration process started
+[2025-05-19 10:55:24] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => fresh
+            [email1] => asdfadf@gmail.cm
+            [phone1] => 9840005328
+            [shop_name2] => ajfkas
+            [email2] => asdfasd@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 546576
+    [otp_expiry] => 1747645127
+    [otp_verified] => 1
+)
+
+[2025-05-19 10:55:24] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => greengrocer
+    [email] => azarialuzio@gmail.com
+    [phone] => 2315478963
+    [shop_name1] => fresh
+    [email1] => asdfadf@gmail.cm
+    [phone1] => 5646791458
+    [shop_name2] => ajfkas
+    [email2] => asdfasd@gmail.com
+    [phone2] => zxcvxc
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-19 10:55:24] Form submitted, saving registration data and redirecting to OTP
+[2025-05-19 10:55:45] Registration process started
+[2025-05-19 10:55:45] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 2315478963
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => fresh
+            [email1] => asdfadf@gmail.cm
+            [phone1] => 5646791458
+            [shop_name2] => ajfkas
+            [email2] => asdfasd@gmail.com
+            [phone2] => zxcvxc
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 209788
+    [otp_expiry] => 1747645224
+    [otp_verified] => 1
+)
+
+[2025-05-19 10:55:46] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-19 10:55:46] OTP verified block entered
+[2025-05-19 10:55:46] User inserted, ID: 9
+[2025-05-19 10:55:46] Both shops inserted successfully
+[2025-05-19 10:55:46] Transaction committed. Clearing session and redirecting.
+[2025-05-20 11:46:13] Registration process started
+[2025-05-20 11:46:13] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-20 11:46:13] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => delicatessen
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005332
+    [shop_name2] => Timro Bakery
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840008475
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-20 11:46:13] Form submitted, saving registration data and redirecting to OTP
+[2025-05-20 11:46:45] Registration process started
+[2025-05-20 11:46:45] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => delicatessen
+            [shop_name1] => Hamro Bakery
+            [email1] => Hamro123@gmail.com
+            [phone1] => 9840005332
+            [shop_name2] => Timro Bakery
+            [email2] => Timro123@gmail.com
+            [phone2] => 9840008475
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 059454
+    [otp_expiry] => 1747734673
+    [otp_verified] => 1
+)
+
+[2025-05-20 11:46:45] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-20 11:46:45] OTP verified block entered
+[2025-05-20 11:46:45] User inserted, ID: 5
+[2025-05-20 11:46:45] Both shops inserted successfully
+[2025-05-20 11:46:45] Transaction committed. Clearing session and redirecting.
+[2025-05-20 11:48:08] Registration process started
+[2025-05-20 11:48:08] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 059454
+    [otp_expiry] => 1747734673
+    [user_role] => trader
+)
+
+[2025-05-20 11:48:08] POST: Array
+(
+    [fullname] => Ram Bhadur
+    [category] => fishmonger
+    [email] => azarialuzio@gmail.com
+    [phone] => 9840005658
+    [shop_name1] => Hamro Fish
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Fish
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840008475
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-20 11:48:08] Form submitted, saving registration data and redirecting to OTP
+[2025-05-20 11:48:31] Registration process started
+[2025-05-20 11:48:31] SESSION: Array
+(
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 653780
+    [otp_expiry] => 1747734788
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Ram Bhadur
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005658
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name1] => Hamro Fish
+            [email1] => Hamro123@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Fish
+            [email2] => Timro123@gmail.com
+            [phone2] => 9840008475
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-20 11:48:31] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-20 11:48:31] OTP verified block entered
+[2025-05-20 11:48:31] User inserted, ID: 7
+[2025-05-20 11:48:31] Both shops inserted successfully
+[2025-05-20 11:48:31] Transaction committed. Clearing session and redirecting.
+[2025-05-21 09:08:10] Registration process started
+[2025-05-21 09:08:10] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-21 09:08:10] POST: Array
+(
+    [fullname] => abhisek
+    [category] => butcher
+    [email] => sutkrista22@tbc.edu.np
+    [phone] => 9840005648
+    [shop_name1] => go fresh
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azafdfdrialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-21 09:08:10] Form submitted, saving registration data and redirecting to OTP
+[2025-05-21 09:08:44] Registration process started
+[2025-05-21 09:08:44] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => abhisek
+            [email] => sutkrista22@tbc.edu.np
+            [contact_no] => 9840005648
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => Hamro123@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azafdfdrialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => sutkrista22@tbc.edu.np
+    [otp] => 980304
+    [otp_expiry] => 1747811590
+    [otp_verified] => 1
+)
+
+[2025-05-21 09:08:44] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-21 09:08:44] OTP verified block entered
+[2025-05-21 09:08:45] User inserted, ID: 9
+[2025-05-21 09:08:45] Both shops inserted successfully
+[2025-05-21 09:08:45] Transaction committed. Clearing session and redirecting.
+[2025-05-21 10:51:51] Registration process started
+[2025-05-21 10:51:51] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-21 10:51:51] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840008475
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-21 10:51:51] Form submitted, saving registration data and redirecting to OTP
+[2025-05-21 10:52:20] Registration process started
+[2025-05-21 10:52:20] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => Hamro123@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840008475
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 366623
+    [otp_expiry] => 1747817811
+    [otp_verified] => 1
+)
+
+[2025-05-21 10:52:20] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-21 10:52:20] OTP verified block entered
+[2025-05-21 10:52:21] User inserted, ID: 5
+[2025-05-21 10:52:21] Both shops inserted successfully
+[2025-05-21 10:52:21] Transaction committed. Clearing session and redirecting.
+[2025-05-22 06:51:29] Registration process started
+[2025-05-22 06:51:29] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-22 06:51:29] POST: Array
+(
+    [fullname] => Astha
+    [category] => butcher
+    [email] => daastha452@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => go fresh
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840008475
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 06:51:29] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 06:55:40] Registration process started
+[2025-05-22 06:55:40] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Astha
+            [email] => daastha452@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => go fresh
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => Timro123@gmail.com
+            [phone2] => 9840008475
+        )
+
+    [user_email] => daastha452@gmail.com
+    [otp] => 266554
+    [otp_expiry] => 1747889789
+)
+
+[2025-05-22 06:55:40] POST: Array
+(
+    [fullname] => Astha
+    [phone] => 9840005325
+    [email] => daastha452@gmail.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 06:55:40] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 06:56:40] Registration process started
+[2025-05-22 06:56:40] SESSION: Array
+(
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Astha
+            [email] => daastha452@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+        )
+
+    [user_email] => daastha452@gmail.com
+    [otp] => 311090
+    [otp_expiry] => 1747890040
+    [otp_verified] => 1
+)
+
+[2025-05-22 06:56:40] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 06:56:40] OTP verified block entered
+[2025-05-22 06:56:40] User inserted, ID: 8
+[2025-05-22 06:56:40] Transaction committed. Clearing session and redirecting.
+[2025-05-22 07:10:59] Registration process started
+[2025-05-22 07:10:59] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-22 07:10:59] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 07:10:59] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 07:11:23] Registration process started
+[2025-05-22 07:11:23] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 177753
+    [otp_expiry] => 1747890959
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:11:23] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 07:11:23] OTP verified block entered
+[2025-05-22 07:11:51] Registration process started
+[2025-05-22 07:11:51] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 177753
+    [otp_expiry] => 1747890959
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:11:51] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 07:11:51] OTP verified block entered
+[2025-05-22 07:12:01] Registration process started
+[2025-05-22 07:12:01] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 177753
+    [otp_expiry] => 1747890959
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:12:01] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => azarialuzio@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 07:12:01] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 07:12:22] Registration process started
+[2025-05-22 07:12:22] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 896746
+    [otp_expiry] => 1747891021
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:12:22] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 07:12:22] OTP verified block entered
+[2025-05-22 07:13:03] Registration process started
+[2025-05-22 07:13:03] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 896746
+    [otp_expiry] => 1747891021
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:13:03] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => subedisourav8@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 07:13:04] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 07:13:22] Registration process started
+[2025-05-22 07:13:22] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => subedisourav8@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => subedisourav8@gmail.com
+    [otp] => 884688
+    [otp_expiry] => 1747891084
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:13:22] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 07:13:22] OTP verified block entered
+[2025-05-22 07:14:31] Registration process started
+[2025-05-22 07:14:31] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => subedisourav8@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => subedisourav8@gmail.com
+    [otp] => 884688
+    [otp_expiry] => 1747891084
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:14:31] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => subedisourav8@gmail.com
+    [phone] => 6546546564
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 07:14:31] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 07:14:54] Registration process started
+[2025-05-22 07:14:54] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => subedisourav8@gmail.com
+            [contact_no] => 6546546564
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => subedisourav8@gmail.com
+    [otp] => 890635
+    [otp_expiry] => 1747891171
+    [otp_verified] => 1
+)
+
+[2025-05-22 07:14:54] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 07:14:54] OTP verified block entered
+[2025-05-22 07:14:54] User inserted, ID: 5
+[2025-05-22 07:14:54] Both shops inserted successfully
+[2025-05-22 07:14:54] Transaction committed. Clearing session and redirecting.
+[2025-05-22 19:04:46] Registration process started
+[2025-05-22 19:04:46] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-22 19:04:46] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => bakery
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 19:04:46] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 19:05:10] Registration process started
+[2025-05-22 19:05:10] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name1] => Hamro Bakery
+            [email1] => Hamro123@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => Timro123@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 806554
+    [otp_expiry] => 1747933786
+    [otp_verified] => 1
+)
+
+[2025-05-22 19:05:10] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 19:05:11] OTP verified block entered
+[2025-05-22 19:05:11] User inserted, ID: 5
+[2025-05-22 19:05:11] Both shops inserted successfully
+[2025-05-22 19:05:11] Transaction committed. Clearing session and redirecting.
+[2025-05-22 19:10:07] Registration process started
+[2025-05-22 19:10:07] SESSION: Array
+(
+    [message] => Please login to view your wishlist!
+    [messageType] => error
+    [user_role] => customer
+)
+
+[2025-05-22 19:10:07] POST: Array
+(
+    [fullname] => Ram Bhadur
+    [phone] => 9840005658
+    [email] => azarialuzio@gmail.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-22 19:10:07] Form submitted, saving registration data and redirecting to OTP
+[2025-05-22 19:11:24] Registration process started
+[2025-05-22 19:11:24] SESSION: Array
+(
+    [message] => Please login to view your wishlist!
+    [messageType] => error
+    [user_role] => customer
+    [reg_data] => Array
+        (
+            [full_name] => Ram Bhadur
+            [email] => azarialuzio@gmail.com
+            [contact_no] => 9840005658
+            [password] => Utkrist@123
+        )
+
+    [user_email] => azarialuzio@gmail.com
+    [otp] => 715692
+    [otp_expiry] => 1747934107
+    [otp_verified] => 1
+)
+
+[2025-05-22 19:11:24] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-22 19:11:24] OTP verified block entered
+[2025-05-22 19:11:24] User inserted, ID: 7
+[2025-05-22 19:11:24] Transaction committed. Clearing session and redirecting.
+[2025-05-23 07:47:01] Registration process started
+[2025-05-23 07:47:01] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-23 07:47:01] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => bakery
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => Timro Bakery
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840008475
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 07:47:01] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 07:47:25] Registration process started
+[2025-05-23 07:47:25] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => Timro Bakery
+            [email2] => Timro123@gmail.com
+            [phone2] => 9840008475
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 805203
+    [otp_expiry] => 1747979521
+    [otp_verified] => 1
+)
+
+[2025-05-23 07:47:25] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 07:47:25] OTP verified block entered
+[2025-05-23 07:47:25] User inserted, ID: 5
+[2025-05-23 07:47:25] Both shops inserted successfully
+[2025-05-23 07:47:25] Transaction committed. Clearing session and redirecting.
+[2025-05-23 08:28:12] Registration process started
+[2025-05-23 08:28:12] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-23 08:28:12] POST: Array
+(
+    [fullname] => Utkrista 
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => azarialuzio@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => ajfkasdjfl;asdf
+    [email2] => azarialuzio@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 08:28:12] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 08:28:42] Registration process started
+[2025-05-23 08:28:42] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista 
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Hamro Bakery
+            [email1] => azarialuzio@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => ajfkasdjfl;asdf
+            [email2] => azarialuzio@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 325500
+    [otp_expiry] => 1747981992
+    [otp_verified] => 1
+)
+
+[2025-05-23 08:28:42] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 08:28:42] OTP verified block entered
+[2025-05-23 08:28:42] User inserted, ID: 5
+[2025-05-23 08:28:42] Both shops inserted successfully
+[2025-05-23 08:28:42] Transaction committed. Clearing session and redirecting.
+[2025-05-23 11:15:13] Registration process started
+[2025-05-23 11:15:13] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-23 11:15:13] POST: Array
+(
+    [fullname] => Utkrista Thapa Shrestha
+    [category] => butcher
+    [email] => utkristashrestha984@gmail.com
+    [phone] => 9840005325
+    [shop_name1] => Prime Cuts Butchery
+    [email1] => Prime@gmail.com
+    [phone1] => 9840005328
+    [shop_name2] => The Meat House
+    [email2] => MeatHouse@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 11:15:14] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 11:15:43] Registration process started
+[2025-05-23 11:15:43] SESSION: Array
+(
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Utkrista Thapa Shrestha
+            [email] => utkristashrestha984@gmail.com
+            [contact_no] => 9840005325
+            [password] => Utkrist@123
+            [category] => butcher
+            [shop_name1] => Prime Cuts Butchery
+            [email1] => Prime@gmail.com
+            [phone1] => 9840005328
+            [shop_name2] => The Meat House
+            [email2] => MeatHouse@gmail.com
+            [phone2] => 9840005328
+        )
+
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 967949
+    [otp_expiry] => 1747992014
+    [otp_verified] => 1
+)
+
+[2025-05-23 11:15:43] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 11:15:43] OTP verified block entered
+[2025-05-23 11:15:43] User inserted, ID: 5
+[2025-05-23 11:15:43] Both shops inserted successfully
+[2025-05-23 11:15:43] Transaction committed. Clearing session and redirecting.
+[2025-05-23 11:18:58] Registration process started
+[2025-05-23 11:18:58] SESSION: Array
+(
+    [user_email] => utkristashrestha984@gmail.com
+    [otp] => 967949
+    [otp_expiry] => 1747992014
+    [user_role] => trader
+)
+
+[2025-05-23 11:18:58] POST: Array
+(
+    [fullname] => Abhisek Kumar Sah
+    [category] => bakery
+    [email] => sahabhisek1@gmail.com
+    [phone] => 9809680739
+    [shop_name1] => The Bread Basket
+    [email1] => BreadBasket@gmail.com
+    [phone1] => 9809680739
+    [shop_name2] => Golden Crust Bakery
+    [email2] => GoldenCrust@gmail.com
+    [phone2] => 9809680739
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 11:18:58] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 11:19:24] Registration process started
+[2025-05-23 11:19:24] SESSION: Array
+(
+    [user_email] => sahabhisek1@gmail.com
+    [otp] => 393560
+    [otp_expiry] => 1747992238
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Abhisek Kumar Sah
+            [email] => sahabhisek1@gmail.com
+            [contact_no] => 9809680739
+            [password] => Utkrist@123
+            [category] => bakery
+            [shop_name1] => The Bread Basket
+            [email1] => BreadBasket@gmail.com
+            [phone1] => 9809680739
+            [shop_name2] => Golden Crust Bakery
+            [email2] => GoldenCrust@gmail.com
+            [phone2] => 9809680739
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-23 11:19:24] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 11:19:25] OTP verified block entered
+[2025-05-23 11:19:25] User inserted, ID: 7
+[2025-05-23 11:19:25] Both shops inserted successfully
+[2025-05-23 11:19:25] Transaction committed. Clearing session and redirecting.
+[2025-05-23 11:22:44] Registration process started
+[2025-05-23 11:22:44] SESSION: Array
+(
+    [user_email] => sahabhisek1@gmail.com
+    [otp] => 393560
+    [otp_expiry] => 1747992238
+    [user_role] => trader
+)
+
+[2025-05-23 11:22:44] POST: Array
+(
+    [fullname] => Astha
+    [category] => greengrocer
+    [email] => daastha452@gmail.com
+    [phone] => 9767224576
+    [shop_name1] => The Green Basket
+    [email1] => GreenBasket@gmail.com
+    [phone1] => 9767224576
+    [shop_name2] => Fresh Fields Market
+    [email2] => FreshFields@gmail.com
+    [phone2] => 9767224576
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 11:22:44] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 11:23:04] Registration process started
+[2025-05-23 11:23:04] SESSION: Array
+(
+    [user_email] => daastha452@gmail.com
+    [otp] => 591243
+    [otp_expiry] => 1747992464
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Astha
+            [email] => daastha452@gmail.com
+            [contact_no] => 9767224576
+            [password] => Utkrist@123
+            [category] => greengrocer
+            [shop_name1] => The Green Basket
+            [email1] => GreenBasket@gmail.com
+            [phone1] => 9767224576
+            [shop_name2] => Fresh Fields Market
+            [email2] => FreshFields@gmail.com
+            [phone2] => 9767224576
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-23 11:23:04] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 11:23:04] OTP verified block entered
+[2025-05-23 11:23:04] User inserted, ID: 9
+[2025-05-23 11:23:04] Both shops inserted successfully
+[2025-05-23 11:23:04] Transaction committed. Clearing session and redirecting.
+[2025-05-23 11:25:03] Registration process started
+[2025-05-23 11:25:03] SESSION: Array
+(
+    [user_email] => daastha452@gmail.com
+    [otp] => 591243
+    [otp_expiry] => 1747992464
+    [user_role] => trader
+)
+
+[2025-05-23 11:25:03] POST: Array
+(
+    [fullname] => Abinesh Acharya
+    [category] => fishmonger
+    [email] => bayswitch2@gmail.com
+    [phone] => 9865094023
+    [shop_name1] => The Fish Market
+    [email1] => FishMarket@gmail.com
+    [phone1] => 9865094023
+    [shop_name2] => Ocean’s Catch
+    [email2] => OceanCatch@gmail.com
+    [phone2] => 9865094023
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 11:25:03] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 11:25:28] Registration process started
+[2025-05-23 11:25:28] SESSION: Array
+(
+    [user_email] => bayswitch2@gmail.com
+    [otp] => 672023
+    [otp_expiry] => 1747992603
+    [user_role] => trader
+    [reg_data] => Array
+        (
+            [full_name] => Abinesh Acharya
+            [email] => bayswitch2@gmail.com
+            [contact_no] => 9865094023
+            [password] => Utkrist@123
+            [category] => fishmonger
+            [shop_name1] => The Fish Market
+            [email1] => FishMarket@gmail.com
+            [phone1] => 9865094023
+            [shop_name2] => Ocean’s Catch
+            [email2] => OceanCatch@gmail.com
+            [phone2] => 9865094023
+        )
+
+    [otp_verified] => 1
+)
+
+[2025-05-23 11:25:28] POST: Array
+(
+    [otp_verified] => true
+)
+
+[2025-05-23 11:25:28] OTP verified block entered
+[2025-05-23 11:25:28] User inserted, ID: 11
+[2025-05-23 11:25:28] Both shops inserted successfully
+[2025-05-23 11:25:28] Transaction committed. Clearing session and redirecting.
+[2025-05-23 18:10:29] Registration process started
+[2025-05-23 18:10:29] SESSION: Array
+(
+    [user_role] => trader
+)
+
+[2025-05-23 18:10:29] POST: Array
+(
+    [fullname] => Ram Bhadur
+    [category] => bakery
+    [email] => trader@example.com
+    [phone] => 9840005325
+    [shop_name1] => Hamro Bakery
+    [email1] => Hamro123@gmail.com
+    [phone1] => 9840005332
+    [shop_name2] => ajfkas
+    [email2] => Timro123@gmail.com
+    [phone2] => 9840005328
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 18:10:30] Form submitted, saving registration data and redirecting to OTP
+[2025-05-23 18:17:51] Registration process started
+[2025-05-23 18:17:51] SESSION: Array
+(
+    [user_role] => customer
+)
+
+[2025-05-23 18:17:51] POST: Array
+(
+    [fullname] => utkrista
+    [phone] => 9840005658
+    [email] => customer@example.com
+    [password] => Utkrist@123
+    [confirm_password] => Utkrist@123
+    [terms] => on
+    [signup] => 
+)
+
+[2025-05-23 18:17:52] Form submitted, saving registration data and redirecting to OTP

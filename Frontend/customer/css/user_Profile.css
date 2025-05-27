@@ -1,0 +1,195 @@
+
+/* General Page Styles */
+body {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  background: rgb(203, 217, 226);
+  margin: 0;
+  min-height: 100vh;
+  position: relative; /* Changed from flex layout */
+}
+
+/* Main content container - to hold everything but sidebar */
+.main-content {
+  margin-left: 250px; /* Width of your sidebar - adjust if needed */
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Background Image with Overlay */
+.background {
+  position: absolute;
+  width: 100%;
+  height: 30%;
+  top: 0;
+  left: 0;
+  background: 
+    linear-gradient(rgba(2, 158, 156, 0.67), rgba(2, 158, 156, 0.67)), 
+    url('../../image/fresh.jpg');
+  background-size: cover;
+  background-position: center center;
+  z-index: -1;
+  clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
+}
+
+/* Universal Button Styles */
+.btn,
+.review-btn,
+.edit-btn {
+  padding: 0.6rem 1.3rem;
+  border: none;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #ffa500;
+  color: #000;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover,
+.review-btn:hover,
+.edit-btn:hover {
+  background-color: #e69500;
+}
+
+/* PROFILE SECTION */
+.profile-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem auto;
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card {
+  text-align: center;
+}
+
+.profile-icon {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.profile-card h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
+  color: #333;
+}
+
+.profile-card strong {
+  font-size: 1rem;
+  color: #777;
+}
+
+.about {
+  font-style: italic;
+  color: #555;
+  margin: 1rem 0;
+}
+
+.profile-details {
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.detail-item {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+.profile-details strong {
+  color: #222;
+}
+
+/* Button Section */
+.profile-details div:last-child {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+/* RECENT PURCHASES SECTION */
+.recent-purchases {
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem auto;
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.recent-purchases h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.purchase-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.purchase-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.item-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-right: 1rem;
+}
+
+.item-text {
+  flex: 1;
+}
+
+.item-text h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.price {
+  margin-left: 0.5rem;
+  font-weight: normal;
+  color: #666;
+  font-size: 1rem;
+}
+
+.description,
+.info {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+/* Sidebar specific styles - add these if not in sidebar.css */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px; /* Fixed sidebar width */
+  height: 100%;
+  background-color: #fff;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  overflow-y: auto;
+}

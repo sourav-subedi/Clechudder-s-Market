@@ -1,0 +1,107 @@
+/* General Page Styles */
+body {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    background: rgb(203, 217, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+}
+
+/* Background Image with Overlay */
+.background {
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    top: 0;
+    left: 0;
+    background: 
+        linear-gradient(rgba(2, 158, 156, 0.67), rgba(2, 158, 156, 0.67)), 
+        url('../../image/fresh.jpg');
+    background-size: cover;
+    background-position: center center;
+    z-index: -1;
+    clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
+}
+
+/* .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: -1;
+} */
+
+/* Container */
+.selection-container {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 350px;
+}
+
+.selection-container h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.selection-container p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Radio buttons */
+.radio-group {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.radio-group label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.radio-group input {
+    margin-right: 8px;
+    transform: scale(1.2);
+}
+
+.radio-label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Submit Button */
+.submit-btn {
+    background: #ff914d;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.submit-btn:hover {
+    background: #e98340;
+}
+
+/* Login link */
+.selection-container p a {
+    color: #ff914d;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.selection-container p a:hover {
+    text-decoration: underline;
+}

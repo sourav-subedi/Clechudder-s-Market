@@ -1,0 +1,386 @@
+/* General Page Styles */
+body {
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  background: rgb(203, 217, 226);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+}
+
+/* Background Image with Overlay */
+.background {
+  position: absolute;
+  width: 100%;
+  height: 70%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(rgba(2, 158, 156, 0.67), rgba(2, 158, 156, 0.67)),
+    url("../../image/fresh.jpg");
+  background-size: cover;
+  background-position: center center;
+  z-index: -1;
+  clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
+}
+
+/* Signup Container */
+.signup-container {
+  position: relative;
+  width: 572px;
+  padding: 20px;
+  background: rgb(255, 255, 255);
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px 14px rgba(97, 96, 96, 0.33);
+  text-align: center;
+  z-index: 1;
+  margin-top: 500px;
+}
+
+.signup-container h2 {
+  color: rgb(97, 97, 97);
+  font-size: 31.25px;
+  font-weight: 700;
+}
+
+.signup-container p {
+  color: rgb(33, 33, 33);
+  font-size: 12.8px;
+  font-weight: 700;
+}
+
+/* Input Fields */
+input {
+  width: 380px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(97, 97, 97);
+  border-radius: 7px;
+  font-size: 14px;
+}
+
+/* Category */
+.custom-select {
+  width: 401px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(97, 97, 97);
+  border-radius: 7px;
+  background-color: #fff;
+  font-size: 14px;
+  color: #333;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url('data:image/svg+xml;utf8,<svg fill="gray" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 20px;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+.custom-select:focus {
+  border-color: black;
+  border-width: 3px;
+  padding: 9px;
+  outline: none;
+}
+
+/* Contact Container */
+.contact-container {
+  display: flex; /* Enables flexbox */
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Adds space between the inputs */
+  justify-content: center; /* Center align the items horizontally */
+  width: 100%; /* Ensure the container takes full width */
+  max-width: 390px; /* Set a maximum width */
+  margin: 0 85px; /* Centers the container */
+}
+
+/* Contact Code Input */
+.contact-code {
+  width: 100%; /* Ensure the width is relative to the container */
+  max-width: 80px; /* You can adjust the max width as per your design */
+  padding: 10px;
+  text-align: center;
+  border: 1px solid rgb(97, 97, 97);
+  border-radius: 7px;
+  font-size: 14px;
+}
+
+/* Contact Number Input */
+.contact-input {
+  width: 100%; /* Ensure the width is relative to the container */
+  max-width: 280px; /* You can adjust the max width as per your design */
+  padding: 10px;
+  text-align: left;
+  border: 1px solid rgb(97, 97, 97);
+  border-radius: 7px;
+  font-size: 14px;
+}
+
+.contact-input .flag {
+  font-size: 18px;
+}
+
+/* Terms and Conditions */
+.terms {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 14px; /* Match font size with other inputs */
+  color: rgb(97, 97, 97); /* Text color */
+  width: 100%; /* Full width */
+  max-width: 380px; /* Match width of other input fields */
+  padding: 0 65px; /* Remove padding to avoid unnecessary space */
+  text-align: center; /* Align text to the left */
+}
+
+/* Style for the checkbox */
+.terms input[type="checkbox"] {
+  width: 20px; /* Adjust size as needed */
+  height: 20px; /* Adjust size as needed */
+  appearance: none; /* Remove default checkbox style */
+  border: 2px solid rgb(97, 97, 97); /* Border color for the checkbox */
+  border-radius: 4px; /* Rounded corners */
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Style when the checkbox is checked */
+.terms input[type="checkbox"]:checked {
+  background-color: rgb(254, 148, 74); /* Set background color when checked */
+  border-color: rgb(254, 148, 74); /* Change border color to match background */
+}
+
+/* Optional: Add a check mark inside when checked */
+.terms input[type="checkbox"]:checked::before {
+  content: "✔"; /* Checkmark */
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  font-size: 14px;
+  color: white;
+}
+
+/* Signup Button */
+button {
+  width: 390px;
+  padding: 15px;
+  border-radius: 11px;
+  border: none;
+  background: rgb(254, 148, 74);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgb(255, 114, 16);
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.social-icons img {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+/* Login Link */
+.signup-container a {
+  color: rgb(254, 148, 74);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.signup-container a:hover {
+  text-decoration: underline;
+}
+.social-icons img {
+  width: 20px; /* Set width to 10px */
+  height: 20px; /* Set height to 10px */
+}
+
+/* Terms and Conditions */
+.terms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 14px; /* Match font size with other inputs */
+    color: rgb(97, 97, 97); /* Text color */
+    width: 100%; /* Full width */
+    max-width: 380px; /* Match width of other input fields */
+    padding: 0 65px; /* Remove padding to avoid unnecessary space */
+    text-align: center; /* Align text to the left */
+}
+
+
+/* Style for the checkbox */
+.terms input[type="checkbox"] {
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+    appearance: none; /* Remove default checkbox style */
+    border: 2px solid rgb(97, 97, 97); /* Border color for the checkbox */
+    border-radius: 4px; /* Rounded corners */
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Style when the checkbox is checked */
+.terms input[type="checkbox"]:checked {
+    background-color: rgb(254, 148, 74); /* Set background color when checked */
+    border-color: rgb(254, 148, 74); /* Change border color to match background */
+}
+
+/* Optional: Add a check mark inside when checked */
+.terms input[type="checkbox"]:checked::before {
+    content: '✔'; /* Checkmark */
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    font-size: 14px;
+    color: white;
+}
+
+/* Signup Button */
+button {
+    width: 390px;
+    padding: 15px;
+    border-radius: 11px;
+    border: none;
+    background: rgb(254, 148, 74);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(255, 114, 16);
+}
+
+/* Social Icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+/* Login Link */
+.signup-container a {
+    color: rgb(254, 148, 74);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup-container a:hover {
+    text-decoration: underline;
+}
+.social-icons img {
+    width: 20px;  /* Set width to 10px */
+    height: 20px; /* Set height to 10px */
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modal-content {
+    position: relative;
+    background-color: #fff;
+    margin: 5% auto;
+    padding: 0;
+    width: 90%;
+    max-width: 700px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.modal-header {
+    background: 
+        linear-gradient(rgba(2, 158, 156, 0.8), rgba(2, 158, 156, 0.8)),
+        url('image/fresh.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.modal-body {
+    padding: 0;
+    max-height: 60vh;
+}
+
+.terms-content {
+    padding: 20px;
+    height: 50vh;
+    overflow-y: auto;
+    background-color: rgba(240, 240, 240, 0.5);
+}
+
+.modal-footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.accept-btn {
+    background-color: rgb(254, 148, 74);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 60%;
+}
+
+.accept-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.accept-btn:hover:not(:disabled) {
+    background-color: rgb(255, 114, 16);
+}

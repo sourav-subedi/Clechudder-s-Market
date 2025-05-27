@@ -1,0 +1,79 @@
+.background {
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    top: 0;
+    left: 0;
+    background: 
+    linear-gradient(rgba(2, 158, 156, 0.67), rgba(2, 158, 156, 0.67)), 
+    url('../../image/fresh.jpg');
+    background-size: cover;
+    background-position: center center;
+    z-index: -1;
+    clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
+}
+
+    .container {
+        max-width: 1412px;
+        margin: 0 auto;
+        padding: 8rem;
+    }
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem;
+      justify-content: center;
+    }
+
+    .card {
+      background-color: #ffffff;
+      border-radius: 20px;
+      padding: 1.5rem;
+      width: 260px;
+      text-align: center;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+
+    .card h2 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin: 1rem 0 0.5rem;
+      color: #1e293b;
+    }
+
+    .card p {
+      font-size: 1rem;
+      margin-bottom: 1.2rem;
+      color: #64748b;
+    }
+
+    .card button:hover {
+      background-color: #e08e3c;
+      transform: scale(1.05);
+    }
+
+    @media screen and (max-width: 768px) {
+      .cards {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .card {
+        width: 90%;
+      }
+    }
+
